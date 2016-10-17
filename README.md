@@ -1,3 +1,3 @@
 # fabric_Basic
 
-Conatins Basic code example of fabric.
+Contains Basic code example of fabric.
